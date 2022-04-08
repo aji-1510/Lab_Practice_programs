@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\quadriatic_Equation\quadriatic_Equation\bin\Debug\netcoreapp3.1\quadriatic_Equation.exe
+C:\Users\Ajith\source\repos\quadriatic_Equation\quadriatic_Equation\bin\Debug\netcoreapp3.1\quadriatic_Equation.deps.json
+C:\Users\Ajith\source\repos\quadriatic_Equation\quadriatic_Equation\bin\Debug\netcoreapp3.1\quadriatic_Equation.runtimeconfig.json
+C:\Users\Ajith\source\repos\quadriatic_Equation\quadriatic_Equation\bin\Debug\netcoreapp3.1\quadriatic_Equation.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\quadriatic_Equation\quadriatic_Equation\bin\Debug\netcoreapp3.1\quadriatic_Equation.dll
+C:\Users\Ajith\source\repos\quadriatic_Equation\quadriatic_Equation\bin\Debug\netcoreapp3.1\quadriatic_Equation.pdb
+C:\Users\Ajith\source\repos\quadriatic_Equation\quadriatic_Equation\obj\Debug\netcoreapp3.1\quadriatic_Equation.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\quadriatic_Equation\quadriatic_Equation\obj\Debug\netcoreapp3.1\quadriatic_Equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\quadriatic_Equation\quadriatic_Equation\obj\Debug\netcoreapp3.1\quadriatic_Equation.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\quadriatic_Equation\quadriatic_Equation\obj\Debug\netcoreapp3.1\quadriatic_Equation.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\quadriatic_Equation\quadriatic_Equation\obj\Debug\netcoreapp3.1\quadriatic_Equation.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\quadriatic_Equation\quadriatic_Equation\obj\Debug\netcoreapp3.1\quadriatic_Equation.dll
+C:\Users\Ajith\source\repos\quadriatic_Equation\quadriatic_Equation\obj\Debug\netcoreapp3.1\quadriatic_Equation.pdb
+C:\Users\Ajith\source\repos\quadriatic_Equation\quadriatic_Equation\obj\Debug\netcoreapp3.1\quadriatic_Equation.genruntimeconfig.cache
