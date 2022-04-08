@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\loop_121_12321\loop_121_12321\bin\Debug\netcoreapp3.1\loop_121_12321.exe
+C:\Users\Ajith\source\repos\loop_121_12321\loop_121_12321\bin\Debug\netcoreapp3.1\loop_121_12321.deps.json
+C:\Users\Ajith\source\repos\loop_121_12321\loop_121_12321\bin\Debug\netcoreapp3.1\loop_121_12321.runtimeconfig.json
+C:\Users\Ajith\source\repos\loop_121_12321\loop_121_12321\bin\Debug\netcoreapp3.1\loop_121_12321.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\loop_121_12321\loop_121_12321\bin\Debug\netcoreapp3.1\loop_121_12321.dll
+C:\Users\Ajith\source\repos\loop_121_12321\loop_121_12321\bin\Debug\netcoreapp3.1\loop_121_12321.pdb
+C:\Users\Ajith\source\repos\loop_121_12321\loop_121_12321\obj\Debug\netcoreapp3.1\loop_121_12321.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\loop_121_12321\loop_121_12321\obj\Debug\netcoreapp3.1\loop_121_12321.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\loop_121_12321\loop_121_12321\obj\Debug\netcoreapp3.1\loop_121_12321.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\loop_121_12321\loop_121_12321\obj\Debug\netcoreapp3.1\loop_121_12321.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\loop_121_12321\loop_121_12321\obj\Debug\netcoreapp3.1\loop_121_12321.dll
+C:\Users\Ajith\source\repos\loop_121_12321\loop_121_12321\obj\Debug\netcoreapp3.1\loop_121_12321.pdb
+C:\Users\Ajith\source\repos\loop_121_12321\loop_121_12321\obj\Debug\netcoreapp3.1\loop_121_12321.genruntimeconfig.cache
+C:\Users\Ajith\source\repos\loop_121_12321\loop_121_12321\obj\Debug\netcoreapp3.1\loop_121_12321.csproj.AssemblyReference.cache
