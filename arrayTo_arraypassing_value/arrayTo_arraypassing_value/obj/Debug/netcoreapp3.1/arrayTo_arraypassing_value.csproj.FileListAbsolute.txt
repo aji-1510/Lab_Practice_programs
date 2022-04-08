@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\arrayTo_arraypassing_value\arrayTo_arraypassing_value\bin\Debug\netcoreapp3.1\arrayTo_arraypassing_value.exe
+C:\Users\Ajith\source\repos\arrayTo_arraypassing_value\arrayTo_arraypassing_value\bin\Debug\netcoreapp3.1\arrayTo_arraypassing_value.deps.json
+C:\Users\Ajith\source\repos\arrayTo_arraypassing_value\arrayTo_arraypassing_value\bin\Debug\netcoreapp3.1\arrayTo_arraypassing_value.runtimeconfig.json
+C:\Users\Ajith\source\repos\arrayTo_arraypassing_value\arrayTo_arraypassing_value\bin\Debug\netcoreapp3.1\arrayTo_arraypassing_value.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\arrayTo_arraypassing_value\arrayTo_arraypassing_value\bin\Debug\netcoreapp3.1\arrayTo_arraypassing_value.dll
+C:\Users\Ajith\source\repos\arrayTo_arraypassing_value\arrayTo_arraypassing_value\bin\Debug\netcoreapp3.1\arrayTo_arraypassing_value.pdb
+C:\Users\Ajith\source\repos\arrayTo_arraypassing_value\arrayTo_arraypassing_value\obj\Debug\netcoreapp3.1\arrayTo_arraypassing_value.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\arrayTo_arraypassing_value\arrayTo_arraypassing_value\obj\Debug\netcoreapp3.1\arrayTo_arraypassing_value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\arrayTo_arraypassing_value\arrayTo_arraypassing_value\obj\Debug\netcoreapp3.1\arrayTo_arraypassing_value.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\arrayTo_arraypassing_value\arrayTo_arraypassing_value\obj\Debug\netcoreapp3.1\arrayTo_arraypassing_value.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\arrayTo_arraypassing_value\arrayTo_arraypassing_value\obj\Debug\netcoreapp3.1\arrayTo_arraypassing_value.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\arrayTo_arraypassing_value\arrayTo_arraypassing_value\obj\Debug\netcoreapp3.1\arrayTo_arraypassing_value.dll
+C:\Users\Ajith\source\repos\arrayTo_arraypassing_value\arrayTo_arraypassing_value\obj\Debug\netcoreapp3.1\arrayTo_arraypassing_value.pdb
+C:\Users\Ajith\source\repos\arrayTo_arraypassing_value\arrayTo_arraypassing_value\obj\Debug\netcoreapp3.1\arrayTo_arraypassing_value.genruntimeconfig.cache
