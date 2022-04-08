@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "String_subtring_startindexLength/1.0.0": {
+        "runtime": {
+          "String_subtring_startindexLength.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "String_subtring_startindexLength/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
