@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\ArrayAndsearch\ArrayAndsearch\bin\Debug\netcoreapp3.1\ArrayAndsearch.exe
+C:\Users\Ajith\source\repos\ArrayAndsearch\ArrayAndsearch\bin\Debug\netcoreapp3.1\ArrayAndsearch.deps.json
+C:\Users\Ajith\source\repos\ArrayAndsearch\ArrayAndsearch\bin\Debug\netcoreapp3.1\ArrayAndsearch.runtimeconfig.json
+C:\Users\Ajith\source\repos\ArrayAndsearch\ArrayAndsearch\bin\Debug\netcoreapp3.1\ArrayAndsearch.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\ArrayAndsearch\ArrayAndsearch\bin\Debug\netcoreapp3.1\ArrayAndsearch.dll
+C:\Users\Ajith\source\repos\ArrayAndsearch\ArrayAndsearch\bin\Debug\netcoreapp3.1\ArrayAndsearch.pdb
+C:\Users\Ajith\source\repos\ArrayAndsearch\ArrayAndsearch\obj\Debug\netcoreapp3.1\ArrayAndsearch.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\ArrayAndsearch\ArrayAndsearch\obj\Debug\netcoreapp3.1\ArrayAndsearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\ArrayAndsearch\ArrayAndsearch\obj\Debug\netcoreapp3.1\ArrayAndsearch.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\ArrayAndsearch\ArrayAndsearch\obj\Debug\netcoreapp3.1\ArrayAndsearch.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\ArrayAndsearch\ArrayAndsearch\obj\Debug\netcoreapp3.1\ArrayAndsearch.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\ArrayAndsearch\ArrayAndsearch\obj\Debug\netcoreapp3.1\ArrayAndsearch.dll
+C:\Users\Ajith\source\repos\ArrayAndsearch\ArrayAndsearch\obj\Debug\netcoreapp3.1\ArrayAndsearch.pdb
+C:\Users\Ajith\source\repos\ArrayAndsearch\ArrayAndsearch\obj\Debug\netcoreapp3.1\ArrayAndsearch.genruntimeconfig.cache
