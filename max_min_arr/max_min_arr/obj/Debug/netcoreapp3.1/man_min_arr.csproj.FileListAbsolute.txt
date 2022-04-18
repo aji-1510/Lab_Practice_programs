@@ -1,0 +1,13 @@
+C:\Users\Ajith\source\repos\man_min_arr\man_min_arr\bin\Debug\netcoreapp3.1\man_min_arr.exe
+C:\Users\Ajith\source\repos\man_min_arr\man_min_arr\bin\Debug\netcoreapp3.1\man_min_arr.deps.json
+C:\Users\Ajith\source\repos\man_min_arr\man_min_arr\bin\Debug\netcoreapp3.1\man_min_arr.runtimeconfig.json
+C:\Users\Ajith\source\repos\man_min_arr\man_min_arr\bin\Debug\netcoreapp3.1\man_min_arr.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\man_min_arr\man_min_arr\bin\Debug\netcoreapp3.1\man_min_arr.dll
+C:\Users\Ajith\source\repos\man_min_arr\man_min_arr\bin\Debug\netcoreapp3.1\man_min_arr.pdb
+C:\Users\Ajith\source\repos\man_min_arr\man_min_arr\obj\Debug\netcoreapp3.1\man_min_arr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\man_min_arr\man_min_arr\obj\Debug\netcoreapp3.1\man_min_arr.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\man_min_arr\man_min_arr\obj\Debug\netcoreapp3.1\man_min_arr.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\man_min_arr\man_min_arr\obj\Debug\netcoreapp3.1\man_min_arr.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\man_min_arr\man_min_arr\obj\Debug\netcoreapp3.1\man_min_arr.dll
+C:\Users\Ajith\source\repos\man_min_arr\man_min_arr\obj\Debug\netcoreapp3.1\man_min_arr.pdb
+C:\Users\Ajith\source\repos\man_min_arr\man_min_arr\obj\Debug\netcoreapp3.1\man_min_arr.genruntimeconfig.cache
