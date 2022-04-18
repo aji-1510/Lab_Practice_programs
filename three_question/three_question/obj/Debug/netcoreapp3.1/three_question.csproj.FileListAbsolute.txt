@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\three_question\three_question\bin\Debug\netcoreapp3.1\three_question.exe
+C:\Users\Ajith\source\repos\three_question\three_question\bin\Debug\netcoreapp3.1\three_question.deps.json
+C:\Users\Ajith\source\repos\three_question\three_question\bin\Debug\netcoreapp3.1\three_question.runtimeconfig.json
+C:\Users\Ajith\source\repos\three_question\three_question\bin\Debug\netcoreapp3.1\three_question.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\three_question\three_question\bin\Debug\netcoreapp3.1\three_question.dll
+C:\Users\Ajith\source\repos\three_question\three_question\bin\Debug\netcoreapp3.1\three_question.pdb
+C:\Users\Ajith\source\repos\three_question\three_question\obj\Debug\netcoreapp3.1\three_question.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\three_question\three_question\obj\Debug\netcoreapp3.1\three_question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\three_question\three_question\obj\Debug\netcoreapp3.1\three_question.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\three_question\three_question\obj\Debug\netcoreapp3.1\three_question.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\three_question\three_question\obj\Debug\netcoreapp3.1\three_question.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\three_question\three_question\obj\Debug\netcoreapp3.1\three_question.dll
+C:\Users\Ajith\source\repos\three_question\three_question\obj\Debug\netcoreapp3.1\three_question.pdb
+C:\Users\Ajith\source\repos\three_question\three_question\obj\Debug\netcoreapp3.1\three_question.genruntimeconfig.cache
